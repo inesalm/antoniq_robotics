@@ -1,0 +1,11 @@
+ultralytics==8.4.98
+opencv-python==4.13.0
+matplotlib==3.10.0
+pandas==2.2.2
+numpy==2.0.2
+Pillow==11.3.0
+PyYAML
+tqdm
+pycocotools
+onnx
+onnxruntime
